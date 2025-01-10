@@ -1,0 +1,7 @@
+---
+title: "FMSF86 Data Analysis: Statistical learning and visualization"
+subtitle: "Public repository"
+format: gfm
+---
+
+Public documents for FMSF86 Data Analysis: Statistical learning and visualization
